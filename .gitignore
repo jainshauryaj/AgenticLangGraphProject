@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+*.cer
+secrets*.json
+config*.json
+*.pfx
+*.jks
+# noise
+__pycache__/
+*.pyc
+node_modules/
